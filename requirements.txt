@@ -2,6 +2,7 @@
 numpy
 pandas
 matplotlib
+
 ipython
 opencv-python
 opencv-contrib-python
